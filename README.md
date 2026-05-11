@@ -25,17 +25,14 @@
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
 LinkedIn: https://www.linkedin.com/in/aleeza-zaheer-bb2428372/
 <a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"></a>
-Gmail: zahalizay@gmail.com
+https://www.zahalizay@gmail.com
 </p>
----
 
 ### 🚀 Tech Stack  
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
-
----
 
 ### 📊 GitHub Stats  
 
@@ -51,14 +48,11 @@ Gmail: zahalizay@gmail.com
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleeza122E&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 ### 🧠 Currently Learning  
 - JavaScript Deep Concepts ⚡  
 - Responsive Design 📱  
 - Better UI/UX Practices 🎨  
-
----
 
 <div align="center">
 

@@ -23,9 +23,9 @@
 
 <p align="center">
 
-🔗 <a href="https://www.linkedin.com/in/aleeza-zaheer-bb2428372/"></a>  
+🔗LinkedIn: https://www.linkedin.com/in/aleeza-zaheer-bb2428372/  
 
-📧 <a href="mailto:zahalizay@gmail.com"></a>
+📧mailto:https://zahalizay@gmail.com
 
 </p>
 

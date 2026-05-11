@@ -22,10 +22,11 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
-https://www.linkedin.com/in/aleeza-zaheer-bb2428372/
-<a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"></a>
-https://www.zahalizay@gmail.com
+
+🔗 <a href="https://www.linkedin.com/in/aleeza-zaheer-bb2428372/" target="_blank">Aleeza Zaheer</a>  
+
+📧 <a href="mailto:zahalizay@gmail.com">zahalizay@gmail.com</a>
+
 </p>
 
 ### 🚀 Tech Stack  
